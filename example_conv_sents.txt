@@ -1,0 +1,43 @@
+   0: Good morning, Ms. Smith!
+   1: How are you feeling today?
+   2: Morning, Doctor.
+   3: I'm alright, just a bit anxious about the test results.
+   4: Understandable.
+   5: Before we dive into that, did you catch the baseball game last night?
+   6: Oh yes, it was quite a match!
+   7: That home run in the ninth inning was unbelievable.
+   8: Absolutely!
+   9: It reminds me of our approach to your treatment options for your breast cancer.
+   10: You have two main options: lumpectomy and mastectomy.
+   11: I see.
+gt 12: Can you tell me more about each option?
+gt 13: Of course.
+gt 14: A lumpectomy involves removing only the tumor and a small margin of surrounding tissue, preserving most of the breast.
+   15: It's typically followed by radiation therapy to kill any remaining cancer cells.
+   16: And what about mastectomy?
+gt 17: Mastectomy involves removing the entire breast tissue.
+gt 18: There are different types: total mastectomy removes the entire breast, while a modified radical mastectomy removes the breast tissue along with some lymph nodes under the arm.
+   19: That sounds more extensive.
+   20: What are the pros and cons of each?
+   21: Lumpectomy tends to have a shorter recovery time and preserves more of your breast, which can be important for body image.
+   22: However, there's a slightly higher risk of cancer recurrence compared to mastectomy.
+   23: And mastectomy?
+   24: Mastectomy lowers the risk of recurrence significantly.
+   25: It can also be a one-time procedure, reducing the need for additional treatments.
+   26: However, it's a more invasive surgery and may have a longer recovery period.
+   27: I see.
+   28: So, it's a balance between preserving my breast and reducing the risk of cancer coming back?
+   29: Exactly.
+gt 30: We'll need to consider various factors like the size and location of the tumor, your overall health, and your personal preferences before making a decision.
+   31: Thank you, Doctor.
+   32: This gives me a lot to think about.
+   33: Take your time to weigh your options, and feel free to ask any more questions you may have along the way.
+   34: We're here to support you through this journey.
+   35: I appreciate that, Doctor.
+   36: I'll let you know once I've made my decision.
+   37: Sounds good.
+   38: Remember, we're in this together.
+   39: Take care, Ms. Smith.
+   40: Thank you, Doctor.
+   41: Goodbye for now.
+   42: Goodbye, and stay strong.
